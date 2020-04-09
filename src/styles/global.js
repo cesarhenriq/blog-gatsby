@@ -51,6 +51,7 @@ body {
   background: #16202c;
   line-height: 1;
   font-size: 100%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
